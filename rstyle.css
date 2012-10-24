@@ -1,7 +1,8 @@
 #register
 {
 margin-left:35%;
-
+color-profile:auto;
+color:#008000;
 text-align:center;
  }
  h2
@@ -11,6 +12,7 @@ text-align:center;
 text-transform:capitalize;
 font-size:20;
 font-style:italic;
+color:#800040;
 font-family:fantasy;
-font-color:blue;
+
 }
